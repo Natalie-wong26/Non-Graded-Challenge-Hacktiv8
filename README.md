@@ -1,8 +1,22 @@
 # Non-Graded Challenge (NGC) Hacktiv8
 Repositori ini berisi file non-graded challenge.
 
-1. NGC 1 ([h8dsft_looping.ipynb](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_looping.ipynb))
-2. NGC 2 ([h8dsft_converter.ipynb](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_converter.ipynb))
-3. NGC 3 ([h8dsft_Linear_Algebra1](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra1.ipynb))
-4. NGC 4 ([h8dsft_Linear_Algebra2](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra2.ipynb))
-5. NGC 5 ([h8dsft_Linear_Algebra3](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra3.ipynb))
+### ([NGC 1 - Looping](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_looping.ipynb))
+Mengaplikasikan `for loop` dan `if`
+[Colab Link](https://colab.research.google.com/github/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_looping.ipynb)
+
+### ([NGC 2 - Converter](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_converter.ipynb))
+Membuat fungsi dan mengaplikasikannya untuk menkonversi suhu
+[Colab Link](https://colab.research.google.com/github/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_converter.ipynb)
+
+### ([NGC 3 - Linear Algebra 1](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra1.ipynb))
+Membuat vektor dengan `numpy.array` dan membuat plot bidang 2D 
+[Colab Link](https://colab.research.google.com/github/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra1.ipynb)
+
+### ([NGC 4 - Linear Algebra 2](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra2.ipynb))
+Membuat tensor, melakukan perkalian matrix, melakukan transpose, dan menghitung determinan dan matrix dengan `numpy`
+[Colab Link](https://colab.research.google.com/github/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra2.ipynb)
+
+### ([NGC 5 - Linear Algebra 3](https://github.com/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra3.ipynb))
+Mengenai Eigendecomposition
+[Colab Link](https://colab.research.google.com/github/Natalie-wong26/Non-Graded-Challenge-Hacktiv8/blob/master/h8dsft_Linear_Algebra3.ipynb)
